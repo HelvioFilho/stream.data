@@ -25,10 +25,12 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#FFF"
       },
-      "package": "com.rocketseat.twitchlogin"
+      "package": "com.hsvf.twitchlogin"
     },
     "ios": {
-      "bundleIdentifier": "com.rocketseat.twitchlogin"
-    }
+      "bundleIdentifier": "com.hvsf.twitchlogin"
+    },
+    "description": "Application to use with twitch to see the favorites and trends of the moment, created to practice the login and consumption of the twitch API.",
+    "githubUrl": "https://github.com/HelvioFilho/stream.data"
   }
 }
