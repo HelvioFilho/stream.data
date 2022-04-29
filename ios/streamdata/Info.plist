@@ -26,24 +26,24 @@
         <key>CFBundleURLSchemes</key>
         <array>
           <string>stream.data</string>
-          <string>com.rocketseat.twitchlogin</string>
+          <string>com.hsvf.twitchlogin</string>
         </array>
       </dict>
     </array>
     <key>CFBundleVersion</key>
     <string>1</string>
     <key>LSRequiresIPhoneOS</key>
-    <true/>
+    <true />
     <key>NSAppTransportSecurity</key>
     <dict>
       <key>NSAllowsArbitraryLoads</key>
-      <true/>
+      <true />
       <key>NSExceptionDomains</key>
       <dict>
         <key>localhost</key>
         <dict>
           <key>NSExceptionAllowsInsecureHTTPLoads</key>
-          <true/>
+          <true />
         </dict>
       </dict>
     </dict>
@@ -54,7 +54,7 @@
       <string>armv7</string>
     </array>
     <key>UIRequiresFullScreen</key>
-    <false/>
+    <false />
     <key>UIStatusBarStyle</key>
     <string>UIStatusBarStyleDefault</string>
     <key>UISupportedInterfaceOrientations</key>
@@ -74,6 +74,6 @@
     <key>UIUserInterfaceStyle</key>
     <string>Light</string>
     <key>UIViewControllerBasedStatusBarAppearance</key>
-    <false/>
+    <false />
   </dict>
 </plist>

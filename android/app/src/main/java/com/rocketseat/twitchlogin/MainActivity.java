@@ -1,4 +1,4 @@
-package com.rocketseat.twitchlogin;
+package com.hsvf.twitchlogin;
 
 import android.os.Bundle;
 
